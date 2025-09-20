@@ -29,15 +29,34 @@ According to the program guidelines, I prepared the following setup:
 
 ## 📸 Installation Snapshots
 Below are screenshots for tool installation verification.
+## 📸 Installation Snapshots
 
-- Yosys → ![Yosys Installed](yosys.png)  
-- Icarus Verilog → ![Iverilog Installed](iverilog.png)  
-- GTKWave → ![GTKWave Installed](gtkwave.png)  
-- Ngspice → ![Ngspice Installed](ngspice.png)  
-- Magic → ![Magic Installed](magic.png)  
-- Magic (additional) → ![Magic Installed 2](Magic2.png)
-- OpenLane →![OpenLane Installed](OpenLane.png) 
-- Tools Version → ![Tools Version](Tools_Version.png)  
+Below are the installed tools along with verification screenshots and their purpose:
+
+- **Yosys** → RTL synthesis and logic optimization  
+  ![Yosys Installed](yosys.png)  
+
+- **Icarus Verilog** → Verilog simulation tool  
+  ![Iverilog Installed](iverilog.png)  
+
+- **GTKWave** → Waveform viewer for simulation results  
+  ![GTKWave Installed](gtkwave.png)  
+
+- **Ngspice** → Circuit-level simulation and analysis  
+  ![Ngspice Installed](ngspice.png)  
+
+- **Magic** → Layout design, DRC, and LVS  
+  ![Magic Installed](magic.png)  
+
+- **Magic (additional view)** → Alternative Magic layout screenshot  
+  ![Magic Installed 2](Magic2.png)  
+
+- **OpenLane** → End-to-end ASIC physical design flow  
+  ![OpenLane Installed](OpenLane.png)  
+
+- **Tools Version** → Versions of installed tools for verification  
+  ![Tools Version](Tools_Version.png)  
+
 
 ---
 
