@@ -70,7 +70,7 @@ Also acknowledging support from:
 - [ ] Week 2 — Logic Synthesis & Gate-Level Checks  
 - [ ] Week 3 — Physical Design Flow (OpenLane)  
 - [ ] Week 4 — STA, DRC, LVS & Tapeout Ready  
-
+-  More Weeks to come -
 ---
 
 ## 🚀 Mission Statement  
@@ -85,4 +85,4 @@ Also acknowledging support from:
 - [Efabless Platform](https://efabless.com/)  
 - [RISC-V International](https://riscv.org/)  
 
-👨‍💻 **Participant**: N Chandana / GitHub Handle*  
+👨‍💻 **Participant**: N Chandana / [GitHub Handle](https://github.com/NChandana12)*  
