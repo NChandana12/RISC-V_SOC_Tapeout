@@ -1,5 +1,5 @@
 
-# ⚡RISC-V_SOC_Tapeout⚡
+# ⚡RISC-V_SoC_Tapeout⚡
 
 Welcome to my documentation of the **RISC-V SoC Tapeout Program (VSD)**!  
 This repository captures my week-by-week journey of learning, experimenting, and building — all the way from **RTL design** to **silicon tapeout** 🚀  
