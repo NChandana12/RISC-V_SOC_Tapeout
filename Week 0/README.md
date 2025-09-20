@@ -36,7 +36,7 @@ Below are screenshots for tool installation verification.
 - Ngspice → ![Ngspice Installed](ngspice.png)  
 - Magic → ![Magic Installed](magic.png)  
 - Magic (additional) → ![Magic Installed 2](Magic2.png)
-- OpenLane →
+- OpenLane →![OpenLane Installed](OpenLane.png) 
 - Tools Version → ![Tools Version](Tools_Version.png)  
 
 ---
