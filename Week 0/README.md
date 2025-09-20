@@ -27,26 +27,25 @@ According to the program guidelines, I prepared the following setup:
 
 ---
 
-## 📸 Installation Snapshots (to be added)
-Below are placeholders for tool installation verification.  
-(Screenshots will be added after running each tool inside Ubuntu VM.)
+## 📸 Installation Snapshots
+Below are screenshots for tool installation verification.
 
-- Yosys → ![Yosys Installed](images/yosys.png)  
-- Icarus Verilog → ![Iverilog Installed](images/iverilog.png)  
-- GTKWave → ![GTKWave Installed](images/gtkwave.png)  
-- Ngspice → ![Ngspice Installed](images/ngspice.png)  
-- Magic → ![Magic Installed](images/magic.png)  
-- OpenLane → ![OpenLane Installed](images/openlane.png)  
+- Yosys → ![Yosys Installed](yosys.png)  
+- Icarus Verilog → ![Iverilog Installed](iverilog.png)  
+- GTKWave → ![GTKWave Installed](gtkwave.png)  
+- Ngspice → ![Ngspice Installed](ngspice.png)  
+- Magic → ![Magic Installed](magic.png)  
+- Magic (additional) → ![Magic Installed 2](Magic2.png)  
+- Tools Version → ![OpenLane Installed](Tools Version.png)  
 
 ---
 
 ## ✅ Status
 - Repo created: ✔️  
 - VM setup in progress: ⏳  
-- Tool installation: Pending (will update with screenshots).  
+- Tool installation: Pending (screenshots added).  
 
 ---
 
 ## 🙏 Acknowledgment
 Thanks to **VSD (VLSI System Design)** for organizing the RISC-V SoC Tapeout Program and providing open-source learning opportunities.
-
