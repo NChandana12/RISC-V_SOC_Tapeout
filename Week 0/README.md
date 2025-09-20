@@ -35,15 +35,17 @@ Below are screenshots for tool installation verification.
 - GTKWave → ![GTKWave Installed](gtkwave.png)  
 - Ngspice → ![Ngspice Installed](ngspice.png)  
 - Magic → ![Magic Installed](magic.png)  
-- Magic (additional) → ![Magic Installed 2](Magic2.png)  
-- Tools Version → ![OpenLane Installed](Tools Version.png)  
+- Magic (additional) → ![Magic Installed 2](Magic2.png)
+- OpenLane →
+- Tools Version → ![Tools Version](Tools_Version.png)  
 
 ---
 
 ## ✅ Status
-- Repo created: ✔️  
-- VM setup in progress: ⏳  
-- Tool installation: Pending (screenshots added).  
+- Repository created: ✔️  
+- VM setup completed: ✔️  
+- Tool installation: ✔️ (screenshots added for Yosys, iVerilog, GTKWave, Ngspice, Magic, OpenLane)  
+- README updated with verified snapshots: ✔️
 
 ---
 
