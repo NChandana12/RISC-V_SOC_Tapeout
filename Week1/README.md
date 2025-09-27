@@ -91,9 +91,10 @@ View the waveform:
 gtkwave tb_good_mux.vcd
 ```
 
-<div align="center">
-  <img src="good_mux_wf.png" alt="GTKWave Example" width="70%">
-</div>
+<p align="center">
+  <img src="./good_mux_wf.png" alt="GTKWave Waveform" width="70%">
+</p>
+
 
 ---
 
